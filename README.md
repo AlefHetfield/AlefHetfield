@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Eu sou o Alef Silva 👨🏻‍💻
 
 ![snake gif](https://github.com/AlefHetfield/AlefHetfield/blob/output/github-snake-dark.svg)
 
